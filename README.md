@@ -1,8 +1,10 @@
 # Battleship Game
 
+Battleship is a two-player strategy game. This program was submitted as a course portfolio project and received full marks.
+
 ## How It Works
 
-Program allows two players to play [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)) via a class. To start, each player places ships on their respective 10x10 virtual grid. Players take turns firing one torpedo at a square on the opposite player's grid. A ship sinks when all its grid tiles have been hit by a torpedo. A player wins once they sink all of their enemy's ships.
+This program allows two players to play [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)) via the command prompt. To start, each player places ships on their respective 10x10 virtual grid. Players take turns firing one torpedo at a square on the opposite player's grid. A ship sinks when all its grid tiles have been hit by a torpedo. A player wins once they sink all of their enemy's ships.
 
 ## Usage
 
